@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/BlackPearl</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/GableGreen</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorTertiary">@color/ViridianGreen</item>
+        <item name="colorOnTertiary">@color/white</item>
+    </style>
+    <style name="background">
+        <item name="android:background">@color/ViridianGreen</item>
+    </style>
+
+    <style name="cardProfile">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:background">@color/GableGreen</item>
+        <item name="android:textColor">@color/Cascade</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="nameprofile">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="username">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:paddingStart">3dp</item>
+        <item name="android:paddingEnd">3dp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="textviewUserDetail">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:paddingStart">3dp</item>
+        <item name="android:paddingEnd">3dp</item>
+    </style>
+
+    <style name="icon">
+        <item name="android:tint">@color/Cascade</item>
+    </style>
+
+    <style name="floatButton">
+        <item name="android:backgroundTint">@color/BlackPearl</item>
+    </style>
+</resources>

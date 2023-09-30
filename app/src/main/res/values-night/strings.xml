@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="searchbar_hint">masukan username</string>
+    <string name="profile_name">Nama</string>
+    <string name="username">@username</string>
+    <string name="location">Location</string>
+    <string name="website">Website/Blog</string>
+    <string name="followers">Followers</string>
+    <string name="follwing">Following</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="not_set">Data not set yet</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="detail_user">Detail User</string>
+    <string name="menu_dark">Dark Mode</string>
+    <string name="bright_mode">Bright Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share_content">Share User</string>
+</resources>

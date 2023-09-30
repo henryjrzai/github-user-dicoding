@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#DDE6ED</color>
+
+    <color name="PickledBluewood">#27374D</color>
+    <color name="BlueBayoux">#526D82</color>
+    <color name="GullGray">#9DB2BF</color>
+    <color name="Mystic">#DDE6ED</color>
+
+    <color name="BlackPearl">#040D12</color>
+    <color name="GableGreen">#183D3D</color>
+    <color name="ViridianGreen">#5C8374</color>
+    <color name="Cascade">#93B1A6</color>
+
+    <color name="red">#FF002B</color>
+</resources>

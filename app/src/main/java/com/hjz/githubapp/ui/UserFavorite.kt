@@ -41,6 +41,13 @@ class UserFavorite : AppCompatActivity() {
         }
     }
 
+    override fun onResume() {
+        super.onResume()
+        favoriteViewModel.getUserFavorite().observe(this){
+            adapter.setListFavorit(it)
+        }
+    }
+
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             android.R.id.home -> {

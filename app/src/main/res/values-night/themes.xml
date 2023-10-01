@@ -14,8 +14,8 @@
 
     <style name="cardProfile">
         <item name="android:fontFamily">@font/poppins</item>
-        <item name="android:background">@color/GableGreen</item>
-        <item name="android:textColor">@color/Cascade</item>
+        <item name="android:background">@color/Cascade</item>
+        <item name="android:textColor">@color/white</item>
         <item name="android:textSize">20sp</item>
     </style>
 
